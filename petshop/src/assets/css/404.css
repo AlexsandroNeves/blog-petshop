@@ -1,0 +1,22 @@
+.doguito-imagem {
+  width: 100%;
+  max-width: 25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.naoencontrado-texto {
+  font-size: var(--fonte-tamanho-naoencontrado-texto);
+  margin-bottom: 1rem;
+  margin-top: 25px;
+}
+
+.naoencontrado-link {
+  color: var(--cor-primaria);
+
+}
+
+img.Ilustracao.doguito {
+  width: 60%;
+  margin-top: 50px;
+}
